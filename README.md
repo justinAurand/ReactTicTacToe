@@ -1,3 +1,7 @@
+# Tic Tac Toe
+
+This is a React hack creating a working Tic Tac Toe game. It's mainly what can be found in the React tutorial [here](https://reactjs.org/tutorial/tutorial.html) plus some subjective improvements.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
