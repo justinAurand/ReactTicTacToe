@@ -1,7 +1,6 @@
 ---
 theme : "league"
 transition: "slide"
-highlightTheme: "darkula"
 ---
 
 # React Tic Tac Toe
