@@ -32,4 +32,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## More Information
 
-For information on how to perform common tasks, go [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+For information on how to perform common tasks in React, go [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
